@@ -4,10 +4,6 @@
 * 后端采用Spring Boot、Spring Cloud & Alibaba。
 * 注册中心、配置中心选型Nacos，权限认证使用OAuth2。
 * 流量控制框架选型Sentinel。
-* 如需不分离应用，请移步 [RuoYi](https://gitee.com/y_project/RuoYi)，如需分离应用，请移步 [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
-* 感谢[ruoyi-cloud-design](https://gitee.com/zhangmrit/ruoyi-cloud)，[pig](https://gitee.com/log4j/pig)。
-* 阿里云优惠券：[点我进入](https://www.aliyun.com/minisite/goods?userCode=brki8iof&share_source=copy_link)，腾讯云优惠券：[点我领取](https://cloud.tencent.com/redirect.php?redirect=1025&cps_key=198c8df2ed259157187173bc7f4f32fd&from=console)&nbsp;&nbsp;
-
 
 ## 系统模块
 
@@ -60,10 +56,7 @@ com.ruoyi
 
 ## 在线体验
 
-- admin/admin123  
-- 陆陆续续收到一些打赏，为了更好的体验已用于演示服务器升级。谢谢各位小伙伴。
-
-演示地址：http://ruoyi.vip  
+- admin/123456  
 文档地址：http://doc.ruoyi.vip
 
 ## 演示图
@@ -106,8 +99,3 @@ com.ruoyi
         <td><img src="https://oscimg.oschina.net/oscnet/up-6d73c2140ce694e3de4c05035fdc1868d4c.png"/></td>
     </tr>
 </table>
-
-
-## 若依微服务交流群
-
-QQ群： [![加入QQ群](https://img.shields.io/badge/已满-42799195-blue.svg)](https://jq.qq.com/?_wv=1027&k=yqInfq0S) [![加入QQ群](https://img.shields.io/badge/170157040-blue.svg)](https://jq.qq.com/?_wv=1027&k=Oy1mb3p8) 点击按钮入群。
